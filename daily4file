@@ -1,1 +1,6 @@
 "This is a new file created from my github"
+git remote add origin https://github.com/DanielPotato/daily-4.git
+git branch -M main
+git pull https://github.com/DanielPotato/daily-4.git
+
+
